@@ -1,7 +1,5 @@
 Flask==3.0.1
 pymongo==4.6.1
 python-dotenv==1.0.0
-scikit-learn==1.0.2
 pandas==2.1.1
 flask-Cors==4.0.0
-cython==3.0.8
